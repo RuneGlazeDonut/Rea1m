@@ -1,4 +1,4 @@
-name: Happy to have you here!
+name: Happy to have you here
 
 on: [pull_request, issues]
 
