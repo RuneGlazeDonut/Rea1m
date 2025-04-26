@@ -1,6 +1,5 @@
 # Rea1m
-Official GitHub for Rea1m and Rea1m Resources
+Official GitHub for (Discontinued) Rea1m. This Repo is now an Archive.
 
-<a href="http://discord.gg/5rvvdmVhfC" target="_blank">Join the Discord</a> and become an official member of the Rea1m Community!
-
-<a href="http://www.twitter.com/runeglazedonut" target="_blank">Also follow me on Twitter</a> for updates and random nonsense
+# Recent Sunsetting
+Discord and Twitter for Rea1m has been Archived along with Rea1m itself. This GitHub now serves as an active Archive for Rea1m.
